@@ -1,0 +1,24 @@
+
+git config --global user.name "Alberth Lopez"
+
+Configurar el nombre del ususario que esta utilizando git en este momento
+
+---------------------------------------------------------
+
+Configurar Email
+
+git config --global user.email "alpra_1558@hotmail.com"
+
+---------------------------------------------------------
+
+Validar lo realizado
+
+git config --list
+
+tambien se puede usar 
+
+git config user.name
+git config user.email
+
+---------------------------------------------------------
+
